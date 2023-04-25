@@ -1,4 +1,4 @@
-# experimental_analysis
+# Experimental_analysis
 
 The project shows if there is statistical difference between two groups
 
